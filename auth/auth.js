@@ -40,7 +40,7 @@ passport.use('login', new localStrategy({
 }))
 
 passport.use(new JWTStrategy({
-    secretOrKey: 'top_secretfga345S:LJLFJFDk',
+    secretOrKey: 'top_secret123456',
     jwtFromRequest: ExtractJWT.fromAuthHeaderAsBearerToken('token')
 }, async (token, done) => {
     try {
