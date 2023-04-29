@@ -16,7 +16,7 @@ Adaptación del proyecto https://github.com/AngelRodRo/jwt-passport de Angel Rod
 
 #### Entidades gestionadas:
 
-- Usuarios
+  - Usuarios
 
 
 #### Instrucciones de instalación:
@@ -27,6 +27,6 @@ Adaptación del proyecto https://github.com/AngelRodRo/jwt-passport de Angel Rod
 
 
 
-#### Agradecimiento
+#### Agradecimiento:
 
 Adaptación del proyecto https://github.com/AngelRodRo/jwt-passport de Angel Rodriguez Romero.
