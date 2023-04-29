@@ -2,7 +2,7 @@
 
 #### Descripción
 
-Adaptación del proyecto https://github.com/AngelRodRo/jwt-passport de Angel Rodriguez Romero
+Adaptación del proyecto https://github.com/AngelRodRo/jwt-passport de Angel Rodriguez Romero.
 
 
 #### Prerrequisitos tecnológicos:
